@@ -18,3 +18,5 @@ constParams: a list of parameters that are constant over a meta-optimization run
     verbose: True for verbose output
 tuneParams: a list of parameters that a meta-optimizer may optimize. This varies between optimizers, so see individual files.
 ```
+
+Full experimental results are included in the txt files.
